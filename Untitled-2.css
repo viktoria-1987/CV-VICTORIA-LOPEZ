@@ -1,0 +1,44 @@
+* {
+    margin: 10px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+header {
+    
+    text-align: center;
+}
+
+header {
+    background-image: descargar.jpg;
+    }
+h1 {
+    background-color: maroon;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    color: rgb(3, 3, 5);
+    text-align: center;
+}
+
+h3 {
+    background-color: rgb(160, 45, 45);
+    text-align: left;
+    font-weight: bold;
+   }
+ul {
+    text-align: left;
+}
+
+li {
+    text-align: left;
+}
+
+div {
+    width: 350px;
+    height: 160px;
+}
+
+body {
+    background-color: rgba(255, 20, 147, 0.5)
+}
+
